@@ -8,4 +8,4 @@
 - Inside the ```mailer.ts``` file, make the ```sendEmail``` function defining the mailing logic.
 - Write the logic for Signup api and after adding the user to the DB, send the verification mail.
 - Write the logic of sending verification mail in the ```mailer.ts``` file.
-- 
+- TO BE Continued...
