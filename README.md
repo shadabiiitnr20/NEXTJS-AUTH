@@ -11,4 +11,5 @@
 - Test the signup route using postman. Make a separate postman collection for your project.
 - Next make apis for other routes in the project - login, logout, verifyEmail, aboutme. Write the api logic in each file's route.tsx.
 - Test the routes
-- To be continued...
+- Make the front-end page for SignUp, VerifyEmail, Login and ProfilePage.
+- To Be Continued...
