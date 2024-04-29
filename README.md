@@ -9,5 +9,6 @@
 - Write the logic for Signup api and after adding the user to the DB, send the verification mail.
 - Write the logic of sending verification mail in the ```mailer.ts``` file.
 - Test the signup route using postman. Make a separate postman collection for your project.
-- next make apis for other routes in the project - login, logout, verifyEmail, aboutme. Write the api logic in each file's route.tsx.
-- To be continued
+- Next make apis for other routes in the project - login, logout, verifyEmail, aboutme. Write the api logic in each file's route.tsx.
+- Test the routes
+- To be continued...
