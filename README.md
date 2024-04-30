@@ -12,4 +12,8 @@
 - Next make apis for other routes in the project - login, logout, verifyEmail, aboutme. Write the api logic in each file's route.tsx.
 - Test the routes
 - Make the front-end page for SignUp, VerifyEmail, Login and ProfilePage.
-- To Be Continued...
+- Inside the ProfilePage only handle the logout functionality.
+- Make the ProfilePage parameters page. [id] Dynamic Routes.
+- Make the ```middleware.ts``` for protected routes.
+- This completes the project but....
+- NEED TO CHECK THE PROJECT ONCE AGAIN.
